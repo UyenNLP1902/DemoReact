@@ -1,0 +1,17 @@
+[
+		{
+		  "id": 1,
+		  "name": "Nguyen Van A",
+		  "age": 18
+		},
+		{
+		  "id": 2,
+		  "name": "Nguyen Thi B",
+		  "age": 19
+		},
+		{
+		  "id": 3,
+		  "name": "Nguyen Phuong C",
+		  "age": 17
+		}
+]
